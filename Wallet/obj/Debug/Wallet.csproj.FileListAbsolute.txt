@@ -1,0 +1,12 @@
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\bin\Debug\Wallet.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\bin\Debug\Wallet.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.Dashboard.resources
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.Properties.Resources.resources
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.csproj.GenerateResource.Cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\bin\Debug\BlockChainLibrary.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\bin\Debug\BlockChainLibrary.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Wallet\obj\Debug\Wallet.csprojResolveAssemblyReference.cache
