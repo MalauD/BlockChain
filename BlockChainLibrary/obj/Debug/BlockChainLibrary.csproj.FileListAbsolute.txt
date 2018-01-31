@@ -1,0 +1,6 @@
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\BlockChainLibrary\bin\Debug\BlockChainLibrary.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\BlockChainLibrary\bin\Debug\BlockChainLibrary.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\BlockChainLibrary\obj\Debug\BlockChainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\BlockChainLibrary\obj\Debug\BlockChainLibrary.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\BlockChainLibrary\obj\Debug\BlockChainLibrary.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\BlockChainLibrary\obj\Debug\BlockChainLibrary.csprojResolveAssemblyReference.cache

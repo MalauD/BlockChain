@@ -1,0 +1,9 @@
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\bin\Debug\Mining.exe.config
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\bin\Debug\Mining.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\bin\Debug\Mining.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\bin\Debug\BlockChainLibrary.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\bin\Debug\BlockChainLibrary.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\obj\Debug\Mining.csproj.CoreCompileInputs.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\obj\Debug\Mining.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\obj\Debug\Mining.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Mining\obj\Debug\Mining.csprojResolveAssemblyReference.cache

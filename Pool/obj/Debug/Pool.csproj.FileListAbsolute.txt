@@ -1,0 +1,9 @@
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\obj\Debug\Pool.csprojResolveAssemblyReference.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\obj\Debug\Pool.csproj.CoreCompileInputs.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\bin\Debug\Pool.exe.config
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\bin\Debug\Pool.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\bin\Debug\Pool.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\bin\Debug\BlockChainLibrary.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\bin\Debug\BlockChainLibrary.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\obj\Debug\Pool.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Pool\obj\Debug\Pool.pdb

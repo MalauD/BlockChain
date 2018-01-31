@@ -1,0 +1,9 @@
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\bin\Debug\Tracker.exe.config
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\bin\Debug\Tracker.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\bin\Debug\Tracker.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\bin\Debug\BlockChainLibrary.dll
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\bin\Debug\BlockChainLibrary.pdb
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\obj\Debug\Tracker.csprojResolveAssemblyReference.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\obj\Debug\Tracker.exe
+C:\Users\malau\Documents\Visual Studio 2017\Projects\BlockChain\Tracker\obj\Debug\Tracker.pdb
